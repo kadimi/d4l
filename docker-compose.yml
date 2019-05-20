@@ -9,3 +9,11 @@ services:
       - 9000:80
     volumes:
       - ./laravel:/var/www/laravel
+  adminer:
+    container_name: adminer_web
+    image: adminer
+    ports:
+      - 8080:8080
+    volumes:
+      - ./adminer/plugins-enabled:/var/www/html/plugins-enabled
+      - ./laravel/database:/var/www/html/database
