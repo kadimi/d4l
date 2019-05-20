@@ -25,6 +25,9 @@ cd d4l
 # Download and setup Laravel.
 composer create-project laravel/laravel laravel
 
+# Create empty database.
+touch laravel/database/database.sqlite
+
 # Use correct directory permissions.
 chmod -R 777 laravel/storage laravel/bootstrap/cache
 ```
