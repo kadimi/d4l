@@ -9,7 +9,7 @@
 0. `cd` into the direcoty where you want to place your project (e.g. `~/Desktop`)
 0. Copy #1, #2, and #3 from this page [all at once](https://i.imgur.com/uXwzS7Y.png), including normal text, it will be ignored
 0. Paste into terminal and press `↩` 
-0. [Wait](https://github.com/hirak/prestissimo)
+0. Wait
 0. Go to [step #4](#4-Access-Services)
 
 ### #1. Clone Repository
