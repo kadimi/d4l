@@ -41,4 +41,4 @@ docker-compose up --build
 ### #4. Access Services
 
 * [App (localhost:9000)](http://localhost:9000)
-* [Database (localhost:8080)](http://localhost:8080/?sqlite&db=/var/www/html/database/database.sqlite), (system is `SQLite 3` and password is `laravel`)
+* [Database (localhost:8080)](http://localhost:8080/?sqlite&db=/var/www/html/database/database.sqlite), (system is `SQLite 3` and both the username and password are `laravel`)
